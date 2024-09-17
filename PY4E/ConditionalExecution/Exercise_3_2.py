@@ -9,7 +9,6 @@
 # If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
 score = input("Enter Score: ")
-score = float(score)
 
 try:
     score = float(score)
